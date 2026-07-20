@@ -1,7 +1,7 @@
 .container{
     background-color: black;
     display: gird;
-    grid-template-columns: 2fr 1fr 5fr 3fr;
+    grid-template-columns:  2fr 1fr 4fr 1fr;
     grid-gap:10px;
     height: 650px;
 }
